@@ -82,6 +82,7 @@
 
 1. 디자인 및 구성 단계
 - 메인 홈페이지 간략한 도안
+![image](https://github.com/haepang/Seoul-Runner/assets/144311577/77fc87d7-f2ce-43e9-b28d-88b736063a4c)
 
 <img src="https://user-images.githubusercontent.com/81071456/146806081-a5e50c6e-ffaf-4c22-addc-df1e9159006e.PNG](https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EB%A9%94%EC%9D%B8%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EB%8F%84%EC%95%88.png?raw=true)"/>
 
