@@ -83,17 +83,17 @@
 1. 디자인 및 구성 단계
 - 메인 홈페이지 간략한 도안
 
-<img src="[https://user-images.githubusercontent.com/81071456/146806081-a5e50c6e-ffaf-4c22-addc-df1e9159006e.PNG](https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EB%A9%94%EC%9D%B8%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EB%8F%84%EC%95%88.png?raw=true)"/>
+<img src="https://user-images.githubusercontent.com/81071456/146806081-a5e50c6e-ffaf-4c22-addc-df1e9159006e.PNG](https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EB%A9%94%EC%9D%B8%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EB%8F%84%EC%95%88.png?raw=true)"/>
 
 
 - 구 별 홈페이지 간략한 도안
 
-<img src="[[https://user-images.githubusercontent.com/81071456/146805867-06568f03-8a60-4339-b520-171ecd2fe0ca.PNG](https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EA%B5%AC%20%EB%B3%84%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EB%8F%84%EC%95%88.png?raw=true)](https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EA%B5%AC%20%EB%B3%84%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EB%8F%84%EC%95%88.png?raw=true)"/>
+<img src="https://user-images.githubusercontent.com/81071456/146805867-06568f03-8a60-4339-b520-171ecd2fe0ca.PNG](https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EA%B5%AC%20%EB%B3%84%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EB%8F%84%EC%95%88.png?raw=true)](https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EA%B5%AC%20%EB%B3%84%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EB%8F%84%EC%95%88.png?raw=true)"/>
 
 
 - 해당 지역 클릭 시 뜨는 정보 화면
 
-<img src="[https://user-images.githubusercontent.com/81071456/146806243-ac9d6fa8-5740-47c1-a35b-1bfd16cb7412.PNG" width="300" height="300](https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%ED%95%B4%EB%8B%B9%20%EC%A7%80%EC%97%AD%20%ED%81%B4%EB%A6%AD%20%EC%8B%9C%20%EB%9C%A8%EB%8A%94%20%EC%A0%95%EB%B3%B4%20%ED%99%94%EB%A9%B4.png?raw=true)"/>
+<img src="https://user-images.githubusercontent.com/81071456/146806243-ac9d6fa8-5740-47c1-a35b-1bfd16cb7412.PNG" width="300" height="300](https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%ED%95%B4%EB%8B%B9%20%EC%A7%80%EC%97%AD%20%ED%81%B4%EB%A6%AD%20%EC%8B%9C%20%EB%9C%A8%EB%8A%94%20%EC%A0%95%EB%B3%B4%20%ED%99%94%EB%A9%B4.png?raw=true)"/>
 
 
 - 로고 제작
@@ -113,32 +113,32 @@
    
 - 메인 페이지
 
-<img src="[https://user-images.githubusercontent.com/81071456/146807732-aeb3145d-01d1-45fd-931c-9ad4820fecb7.PNG" width="300" height="200](https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/Seoul%20Runner%20%EB%A9%94%EC%9D%B8%20%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true)"/>
+<img src="https://user-images.githubusercontent.com/81071456/146807732-aeb3145d-01d1-45fd-931c-9ad4820fecb7.PNG" width="300" height="200](https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/Seoul%20Runner%20%EB%A9%94%EC%9D%B8%20%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true)"/>
 
 
 - 서브 페이지
-<img src="[https://user-images.githubusercontent.com/81071456/146806927-9b1859e7-5ac2-456b-9885-59d63b5e2747.PNG](https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EC%A7%80%EC%97%AD%20%EA%B5%AC%20%ED%81%B4%EB%A6%AD%ED%96%88%EC%9D%84%EB%95%8C,%20%EB%82%98%EC%98%A4%EB%8A%94%20%EC%9E%A5%EC%86%8C%20%EC%B6%94%EC%B2%9C%20%EC%B0%BD.png?raw=true)https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EC%A7%80%EC%97%AD%20%EA%B5%AC%20%ED%81%B4%EB%A6%AD%ED%96%88%EC%9D%84%EB%95%8C,%20%EB%82%98%EC%98%A4%EB%8A%94%20%EC%9E%A5%EC%86%8C%20%EC%B6%94%EC%B2%9C%20%EC%B0%BD.png?raw=true"/>
+<img src="https://user-images.githubusercontent.com/81071456/146806927-9b1859e7-5ac2-456b-9885-59d63b5e2747.PNG](https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EC%A7%80%EC%97%AD%20%EA%B5%AC%20%ED%81%B4%EB%A6%AD%ED%96%88%EC%9D%84%EB%95%8C,%20%EB%82%98%EC%98%A4%EB%8A%94%20%EC%9E%A5%EC%86%8C%20%EC%B6%94%EC%B2%9C%20%EC%B0%BD.png?raw=true)https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EC%A7%80%EC%97%AD%20%EA%B5%AC%20%ED%81%B4%EB%A6%AD%ED%96%88%EC%9D%84%EB%95%8C,%20%EB%82%98%EC%98%A4%EB%8A%94%20%EC%9E%A5%EC%86%8C%20%EC%B6%94%EC%B2%9C%20%EC%B0%BD.png?raw=true"/>
 
 
 - 장소 상세 설명 페이지
 
-<img src="[https://user-images.githubusercontent.com/81071456/146807090-526c17df-03d3-4118-abe6-d75d938ecab5.PNG](https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EC%9E%A5%EC%86%8C%20%EC%A0%95%EB%B3%B4%20%EC%A0%9C%EA%B3%B5%20%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true)https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EC%9E%A5%EC%86%8C%20%EC%A0%95%EB%B3%B4%20%EC%A0%9C%EA%B3%B5%20%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true"/>
+<img src="https://user-images.githubusercontent.com/81071456/146807090-526c17df-03d3-4118-abe6-d75d938ecab5.PNG](https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EC%9E%A5%EC%86%8C%20%EC%A0%95%EB%B3%B4%20%EC%A0%9C%EA%B3%B5%20%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true)https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EC%9E%A5%EC%86%8C%20%EC%A0%95%EB%B3%B4%20%EC%A0%9C%EA%B3%B5%20%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true"/>
 
 
 2. 주요기능 및 사용 방법
 
 - 커서를 지도 위에 올려 놨을 때 나오는 효과
 
-<img src="[[https://user-images.githubusercontent.com/81071456/146807732-aeb3145d-01d1-45fd-931c-9ad4820fecb7.PNG" width="300" height="200](https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/Seoul%20Runner%20%EB%A9%94%EC%9D%B8%20%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true)](https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EC%BB%A4%EC%84%9C%EB%A5%BC%20%EC%A7%80%EB%8F%84%20%EC%9C%84%EC%97%90%20%EC%98%AC%EB%A0%A4%20%EB%86%A8%EC%9D%84%20%EB%95%8C%20%EB%82%98%EC%98%A4%EB%8A%94%20%ED%9A%A8%EA%B3%BC.png?raw=true)https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EC%BB%A4%EC%84%9C%EB%A5%BC%20%EC%A7%80%EB%8F%84%20%EC%9C%84%EC%97%90%20%EC%98%AC%EB%A0%A4%20%EB%86%A8%EC%9D%84%20%EB%95%8C%20%EB%82%98%EC%98%A4%EB%8A%94%20%ED%9A%A8%EA%B3%BC.png?raw=true"/>
+<img src="https://user-images.githubusercontent.com/81071456/146807732-aeb3145d-01d1-45fd-931c-9ad4820fecb7.PNG" width="300" height="200](https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/Seoul%20Runner%20%EB%A9%94%EC%9D%B8%20%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true)](https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EC%BB%A4%EC%84%9C%EB%A5%BC%20%EC%A7%80%EB%8F%84%20%EC%9C%84%EC%97%90%20%EC%98%AC%EB%A0%A4%20%EB%86%A8%EC%9D%84%20%EB%95%8C%20%EB%82%98%EC%98%A4%EB%8A%94%20%ED%9A%A8%EA%B3%BC.png?raw=true)https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EC%BB%A4%EC%84%9C%EB%A5%BC%20%EC%A7%80%EB%8F%84%20%EC%9C%84%EC%97%90%20%EC%98%AC%EB%A0%A4%20%EB%86%A8%EC%9D%84%20%EB%95%8C%20%EB%82%98%EC%98%A4%EB%8A%94%20%ED%9A%A8%EA%B3%BC.png?raw=true"/>
 
 - 로그인 기능
 
-<img src="[[https://user-images.githubusercontent.com/81071456/146807732-aeb3145d-01d1-45fd-931c-9ad4820fecb7.PNG" width="300" height="200](https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/Seoul%20Runner%20%EB%A9%94%EC%9D%B8%20%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true)](https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%ED%99%94%EB%A9%B4.png?raw=true)https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%ED%99%94%EB%A9%B4.png?raw=true"/>
+<img src="https://user-images.githubusercontent.com/81071456/146807732-aeb3145d-01d1-45fd-931c-9ad4820fecb7.PNG" width="300" height="200](https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/Seoul%20Runner%20%EB%A9%94%EC%9D%B8%20%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true)](https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%ED%99%94%EB%A9%B4.png?raw=true)https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%ED%99%94%EB%A9%B4.png?raw=true"/>
 
 
 - 질문 게시판 페이지
 
-  <img src="[[https://user-images.githubusercontent.com/81071456/146807732-aeb3145d-01d1-45fd-931c-9ad4820fecb7.PNG" width="300" height="200](https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/Seoul%20Runner%20%EB%A9%94%EC%9D%B8%20%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true)](https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EC%A7%88%EB%AC%B8%20%EA%B2%8C%EC%8B%9C%ED%8C%90%20%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true)https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EC%A7%88%EB%AC%B8%20%EA%B2%8C%EC%8B%9C%ED%8C%90%20%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true"/>
+  <img src="https://user-images.githubusercontent.com/81071456/146807732-aeb3145d-01d1-45fd-931c-9ad4820fecb7.PNG" width="300" height="200](https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/Seoul%20Runner%20%EB%A9%94%EC%9D%B8%20%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true)](https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EC%A7%88%EB%AC%B8%20%EA%B2%8C%EC%8B%9C%ED%8C%90%20%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true)https://github.com/haepang/Seoul-Runner/blob/main/seoul_runner/assets/front/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EC%A7%88%EB%AC%B8%20%EA%B2%8C%EC%8B%9C%ED%8C%90%20%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true"/>
 
 ## 설계 요소 평가
 
